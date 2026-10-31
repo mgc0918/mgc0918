@@ -1,9 +1,5 @@
 ## Michelle Thompson | Data Analytics & Data Science Portfolio👋
 
-<!--
-**MGC0918/MGC0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Michelle Thompson | Data Analytics & Data Science Portfolio
-
 Welcome! I specialize in bridging **business analytics, relational database architecture, and predictive machine learning** to solve complex operational challenges. 
 
 🎓 **Education:** M.S. in Cybersecurity & Business Analytics (In Progress) | BBA in Management Information Systems  | Certificate in Business Analytics
