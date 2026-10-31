@@ -1,4 +1,4 @@
-## Hi there 👋
+## Michelle Thompson | Data Analytics & Data Science Portfolio👋
 
 <!--
 **MGC0918/MGC0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
